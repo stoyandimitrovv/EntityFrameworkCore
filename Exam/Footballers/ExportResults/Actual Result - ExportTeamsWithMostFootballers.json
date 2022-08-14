@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "Liverpool F.C.",
+    "Footballers": [
+      {
+        "FootballerName": "Alisson",
+        "ContractStartDate": "01/01/2022",
+        "ContractEndDate": "01/28/2026",
+        "BestSkillType": "Defence",
+        "PositionType": "Goalkeeper"
+      },
+      {
+        "FootballerName": "Andrew Robertson",
+        "ContractStartDate": "01/13/2021",
+        "ContractEndDate": "01/30/2023",
+        "BestSkillType": "Pass",
+        "PositionType": "Defender"
+      }
+    ]
+  },
+  {
+    "Name": "Manchester City F.C.",
+    "Footballers": [
+      {
+        "FootballerName": "Phil Foden",
+        "ContractStartDate": "01/30/2021",
+        "ContractEndDate": "01/13/2025",
+        "BestSkillType": "Dribble",
+        "PositionType": "Midfielder"
+      },
+      {
+        "FootballerName": "Ederson",
+        "ContractStartDate": "01/14/2021",
+        "ContractEndDate": "01/26/2024",
+        "BestSkillType": "Defence",
+        "PositionType": "Goalkeeper"
+      }
+    ]
+  },
+  {
+    "Name": "Olympique Lyonnais",
+    "Footballers": [
+      {
+        "FootballerName": "Romain Faivre",
+        "ContractStartDate": "01/01/2022",
+        "ContractEndDate": "01/06/2026",
+        "BestSkillType": "Dribble",
+        "PositionType": "Midfielder"
+      },
+      {
+        "FootballerName": "Moussa Dembele",
+        "ContractStartDate": "01/14/2021",
+        "ContractEndDate": "01/01/2023",
+        "BestSkillType": "Shoot",
+        "PositionType": "Forward"
+      }
+    ]
+  },
+  {
+    "Name": "Paris Saint-Germain F.C.",
+    "Footballers": [
+      {
+        "FootballerName": "Neymar",
+        "ContractStartDate": "01/10/2021",
+        "ContractEndDate": "01/04/2026",
+        "BestSkillType": "Dribble",
+        "PositionType": "Forward"
+      },
+      {
+        "FootballerName": "Keylor Navas",
+        "ContractStartDate": "01/08/2021",
+        "ContractEndDate": "01/28/2025",
+        "BestSkillType": "Defence",
+        "PositionType": "Goalkeeper"
+      }
+    ]
+  },
+  {
+    "Name": "A.S. Roma",
+    "Footballers": [
+      {
+        "FootballerName": "Lorenzo Pellegrini",
+        "ContractStartDate": "01/30/2021",
+        "ContractEndDate": "01/17/2024",
+        "BestSkillType": "Pass",
+        "PositionType": "Midfielder"
+      }
+    ]
+  }
+]
